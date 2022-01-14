@@ -1,0 +1,9 @@
+_main: CODE, 1609 0 54
+_Random_num: CODE, 1663 0 61
+_Seg_Init: CODE, 1586 0 11
+___lmul: CODE, 1794 0 74
+_srand: CODE, 1597 0 12
+_Seg_Display: CODE, 1868 0 80
+_rand: CODE, 1948 0 100
+___lwmod: CODE, 1724 0 70
+Total: 462
